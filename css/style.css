@@ -5,18 +5,16 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #Inicio {position:relative;width:100%;height:100%;overflow:auto;;background-color:#FFE4E1}
 #Menu {position:absolute;left:0.133333333333333%;width:100%;top:1px;height:750px;margin:0;font-family:'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;overflow-y:scroll;overflow-x:hidden}
 #Info {position:relative;width:100%;height:100%;overflow:auto;;background-color:#FFE4E1}
-#Container1 {position:absolute;left:3.2%;width:93.7333333333333%;top:702px;height:41px;margin:0;;overflow-x:hidden;overflow-y:hidden}
-#SVGicon1 {position:absolute;left:44.8%;width:10.5333333333333%;top:600px;height:88px;margin:0;cursor:pointer;fill:#A8A8A8;stroke:black;stroke-width:1px}
-#Cont_Info {position:absolute;left:0px;width:100%;top:1px;height:582px;margin:0;font-family:'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;overflow-y:scroll;overflow-x:hidden}
+#Cont_Info {position:absolute;left:0px;width:100%;top:0px;height:711px;margin:0;font-family:'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;overflow-y:scroll;overflow-x:hidden}
 #Tutorial {position:relative;width:100%;height:100%;overflow:auto;;background-color:#FFE4E1}
-#SVGicon2 {position:absolute;left:44.8%;width:10.5333333333333%;top:600px;height:88px;margin:0;cursor:pointer;fill:#A8A8A8;stroke:black;stroke-width:1px}
-#Container2 {position:absolute;left:26%;width:48%;top:16px;height:550px;margin:0;border-color:#707070;border-style:solid;border-width:1px;overflow-x:hidden;overflow-y:hidden}
+#Cont_Video {position:absolute;left:5.06666666666667%;width:90%;top:11px;height:703px;margin:0;border-width:1px;overflow-x:hidden;overflow-y:hidden}
 #DialogContainer1 {margin-left:auto;margin-right:auto;width:42.6666666666667%;height:480px;}
 .boton{width:170px;height:55px;background-color:#a569bd;margin: 20px;padding:8px;border-radius: 30px;font-size:18px;line-height:32px;float:center}
 .boton:hover{opacity: 0.75;}
 .boton a{color:#FFFFFF;text-decoration:none;padding:5px 5px 5px 0;}
 #Menu {width: 100%;}
 #Cont_Info {width: 100%;}
+#Cont_Video {width: 90%;}
 .boton2{width:90%;height:50px;background-color:#8CD1C7;margin: 20px;padding:5px;border-radius: 15px;font-size:18px;line-height:32px;float:center}
 .boton2:hover{opacity: 0.75;}
 .boton2 a{color:#000000;text-decoration:none;padding:5px 5px 5px 0;}
@@ -25,4 +23,6 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 .boton3{width:80%;height:45px;background-color:#8CD1C7;margin: 20px;padding:5px;border-radius: 15px;font-size:18px;line-height:32px;float:center}
 .boton3:hover{opacity: 0.75;}
 .boton3 a{color:#000000;text-decoration:none;padding:5px 5px 5px 0;}
-
+.boton4{width:60px;height:45px;background-color:#a569bd;margin: 20px;padding:4px;border-radius: 30px;font-size:18px;line-height:32px;float:center}
+.boton4:hover{opacity: 0.75;}
+.boton4 a{color:#ffffff;text-decoration:none;padding:5px 5px 5px 0;}

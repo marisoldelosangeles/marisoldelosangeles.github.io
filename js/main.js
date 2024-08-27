@@ -16,12 +16,10 @@ $App.NAB.PageID = "Inicio";
 NeoApp.controller("Info_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 2;
 $App.NAB.PageID = "Info";
-$scope.SVGicon1_click = function() {$scope.GotoPage( "Inicio" );};
 });
 NeoApp.controller("Tutorial_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 3;
 $App.NAB.PageID = "Tutorial";
-$scope.SVGicon2_click = function() {$scope.GotoPage( "Inicio" );};
 });
 NeoApp.controller("NewDialog_Ctrl", function($scope,$rootScope,$modalInstance,$filter,$window) {
  $scope.CloseDialog = function() {
